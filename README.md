@@ -1,0 +1,1 @@
+Go to https://github.com/bigdatasg/iotoncloud/wiki/IoT-on-Google-Cloud
